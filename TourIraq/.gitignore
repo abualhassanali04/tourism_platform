@@ -1,0 +1,11 @@
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+node_modules/
+dist/
+backend/TourIraq.Api/wwwroot/uploads/*
+!backend/TourIraq.Api/wwwroot/uploads/.gitkeep
+.vs/
+.env
